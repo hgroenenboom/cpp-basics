@@ -6,7 +6,7 @@ then run the setup script to install homebrew and Visual Studio Code.
 
 ### Result
 You should now have homebrew available from your terminal; open a terminal and type `brew` and hit enter to confirm this.
-You should now have VSCode installed on your Mac, open the program from your program list to see if it runs, you can already explore this program or leave it be for now, we'll start with only using the terminal (CLI / command-line interface).
+You should now have VSCode installed on your Mac, open the program from your program list to see if it runs, you can already explore this program or leave it be for now, we will start with only using the terminal (CLI / command-line interface).
 
 ### Example
 ```bash
